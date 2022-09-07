@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/Sebs14/count.svg" />  
 </p> 
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebs14&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Sebs14/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebs14&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Sebs14/github-readme-stats)
 =======
 
 <!--
