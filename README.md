@@ -4,8 +4,8 @@
 <p align="center">   
   <img src="https://profile-counter.glitch.me/Sebs14/count.svg" />  
 </p> 
-### Hi there 👋
 ![My stats](https://github-readme-stats.vercel.app/api?username=Sebs14&show_icons=true&theme=tokyonight)
+### Hi there 👋
 =======
 
 <!--
