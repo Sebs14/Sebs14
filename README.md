@@ -1,6 +1,13 @@
 
 ![Banner](https://github.com/Sebs14/Sebs14/blob/main/Sebastián%20Flores.gif)
+<!-- retro visitor counter -->  
+<p align="center">   
+  <img src="https://profile-counter.glitch.me/Sebs14/count.svg" />  
+</p> 
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebs14&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Sebs14/github-readme-stats)
+=======
+
 <!--
 **Sebs14/Sebs14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
