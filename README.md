@@ -5,6 +5,8 @@
   <img src="https://profile-counter.glitch.me/Sebs14/count.svg" />  
 </p> 
 
+## Link to my Personal website: [Sebas Flores CV](https://sebasflorescv.vercel.app)
+
 
 - 🔭 I’m currently working on a call center but im looking to start working on some dev enviroment
 - 🌱 I’m currently learning Next.JS to be a frontend dev
